@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://damick23.github.io/cdagency/sitemap.xml
